@@ -1,2 +1,2 @@
 # KenDoku 
-module that determines if a kenken puzzle has at least 1 solution
+module that determines if a KenDoku puzzle has at least 1 solution
