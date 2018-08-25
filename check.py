@@ -1,6 +1,6 @@
 # Last updated January 23, 2017
 """
-    This module is used for testing python code in CS 116 and CS 234
+    This module is used for testing python code
 
     The useful functions in this module are:
     * check.within, for testing functions whose output includes floats
@@ -9,9 +9,7 @@
     * check.set_input, for testing keyboard input (raw_input)
     * check.set_file, for testing file output
 
-    For details on using these functions, please read
-    the Python Style guide from the CS 116 website,
-    www.student.cs.uwaterloo.ca/~cs116/styleGuide
+    from www.student.cs.uwaterloo.ca
 """
 
 import sys, os
